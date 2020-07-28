@@ -51,8 +51,6 @@ namespace DevIO.App.Controllers
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> Create(ProdutoViewModel produtoViewModel)
         {
-            produtoViewModel = await PopularFornecedores(new ProdutoViewModel());
-
             if (!ModelState.IsValid)
             {
                 return View(produtoViewModel);
