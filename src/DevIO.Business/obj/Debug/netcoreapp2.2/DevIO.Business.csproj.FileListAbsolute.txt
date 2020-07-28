@@ -1,0 +1,8 @@
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.deps.json
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csproj.CoreCompileInputs.cache
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfoInputs.cache
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb

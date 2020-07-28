@@ -1,0 +1,12 @@
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.deps.json
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.dll
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\bin\Debug\netcoreapp2.2\DevIO.Business.pdb
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csprojAssemblyReference.cache
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfoInputs.cache
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.AssemblyInfo.cs
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CopyComplete
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.dll
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.pdb
+D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Data\obj\Debug\netcoreapp2.2\DevIO.Data.csproj.CoreCompileInputs.cache
