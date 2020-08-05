@@ -1,6 +1,5 @@
 ﻿using DevIO.Business.Models;
 using Microsoft.EntityFrameworkCore;
-using System.ComponentModel.DataAnnotations.Schema;
 using System.Linq;
 
 namespace DevIO.Data.Context

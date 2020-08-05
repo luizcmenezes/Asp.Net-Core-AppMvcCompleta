@@ -1,7 +1,7 @@
 {
   "runtimeTarget": {
     "name": ".NETCoreApp,Version=v2.2",
-    "signature": "da53bffab2c737e3efbfb25ccbd768a626d4fe69"
+    "signature": "9d6755869f2eb114a34143fd54bcff0bd8557b3d"
   },
   "compilationOptions": {
     "defines": [
@@ -66,6 +66,17 @@
         },
         "compile": {
           "lib/netstandard2.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll": {}
+        }
+      },
+      "FluentValidation/9.0.1": {
+        "runtime": {
+          "lib/netstandard2.0/FluentValidation.dll": {
+            "assemblyVersion": "9.0.0.0",
+            "fileVersion": "9.0.1.0"
+          }
+        },
+        "compile": {
+          "lib/netstandard2.0/FluentValidation.dll": {}
         }
       },
       "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0": {
@@ -487,6 +498,9 @@
         }
       },
       "DevIO.Business/1.0.0": {
+        "dependencies": {
+          "FluentValidation": "9.0.1"
+        },
         "runtime": {
           "DevIO.Business.dll": {}
         },
@@ -3636,6 +3650,13 @@
       "sha512": "sha512-vqbyqXknln1NFn80fbyJVPqJ3LMZhhhq8wMAl4BGTIH6GmK3gtGofuvo8bnWXXuD07y1lnMEuCmiNacvdtxPkw==",
       "path": "automapper.extensions.microsoft.dependencyinjection/6.1.0",
       "hashPath": "automapper.extensions.microsoft.dependencyinjection.6.1.0.nupkg.sha512"
+    },
+    "FluentValidation/9.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-GeF+cPknUFFJ5FkCybmQShaXWwJowBuJozgns6In37wiP2zOWx+kdNPBAN9BlDyhcORdxtXeGnkLZ+OFT85onQ==",
+      "path": "fluentvalidation/9.0.1",
+      "hashPath": "fluentvalidation.9.0.1.nupkg.sha512"
     },
     "Microsoft.CodeAnalysis.CSharp.Workspaces/2.8.0": {
       "type": "package",

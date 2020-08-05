@@ -8,13 +8,13 @@ namespace DevIO.Data.Mappings
     {
         public void Configure(EntityTypeBuilder<Fornecedor> builder)
         {
-            builder.HasKey(p => p.Id);
+            builder.HasKey(f => f.Id);
 
-            builder.Property(p => p.Nome)
+            builder.Property(f => f.Nome)
                 .IsRequired()
                 .HasColumnType("varchar(200)");
 
-            builder.Property(p => p.Documento)
+            builder.Property(f => f.Documento)
                 .IsRequired()
                 .HasColumnType("varchar(14)");
 

@@ -6,4 +6,3 @@ D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.B
 D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.AssemblyInfo.cs
 D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.dll
 D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.pdb
-D:\Projeto_Dev\ASPNet Core FullStack\AppCompleta\MinhaAppMvcCompleta\src\DevIO.Business\obj\Debug\netcoreapp2.2\DevIO.Business.csprojAssemblyReference.cache

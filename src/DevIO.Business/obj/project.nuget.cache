@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "ivtzbOteun4icQWuXvEZgBucvZTwxkvo/tWdfa4LbECvKW6jAUzGkRUP2oW0POf6uRXnnmD2nL9ZMgOChmyqKQ==",
+  "dgSpecHash": "+jhuzmx4VCSNWkmgnbHyZYGjQ0U8YbQWTofRI63BJVR/J/tSY1zrlV6oJJo95SBUSFdF7xzLQDwNN89q6nA/0w==",
   "success": true,
   "projectFilePath": "D:\\Projeto_Dev\\ASPNet Core FullStack\\AppCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Business\\DevIO.Business.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Luiz Menezes\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.app\\2.2.0\\microsoft.netcore.app.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnetapphost\\2.2.0\\microsoft.netcore.dotnetapphost.2.2.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.dotnethostpolicy\\2.2.0\\microsoft.netcore.dotnethostpolicy.2.2.0.nupkg.sha512",

@@ -96,3 +96,11 @@ function BuscaCep() {
         });
     });
 }
+
+$(document).ready(function () {
+    $("#msg_box").fadeOut(6000);
+});
+
+$(document).ready(function () {
+    $("#msg_box_error").fadeOut(6000);
+});

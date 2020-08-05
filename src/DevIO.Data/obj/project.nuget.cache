@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "9mNvsDr2Fagyo9latvVLBi713ukPnAZ+5w1pCyZLj7xVclRSwRDZhdgUF2/0OuZPjiAc8ngRpIs3XXYM7cTZyA==",
+  "dgSpecHash": "Z8Y12AuJ3RWLZqcYEPPjuXtHaRYf/HUGFw/EmPbz+4UYFLk6KTbEfNgGm1+wMy56sRqSacV5gnjLoVh4g83B3A==",
   "success": true,
   "projectFilePath": "D:\\Projeto_Dev\\ASPNet Core FullStack\\AppCompleta\\MinhaAppMvcCompleta\\src\\DevIO.Data\\DevIO.Data.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Luiz Menezes\\.nuget\\packages\\fluentvalidation\\9.0.1\\fluentvalidation.9.0.1.nupkg.sha512",
     "C:\\Users\\Luiz Menezes\\.nuget\\packages\\microsoft.entityframeworkcore\\2.2.4\\microsoft.entityframeworkcore.2.2.4.nupkg.sha512",
     "C:\\Users\\Luiz Menezes\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.2.4\\microsoft.entityframeworkcore.abstractions.2.2.4.nupkg.sha512",
     "C:\\Users\\Luiz Menezes\\.nuget\\packages\\microsoft.entityframeworkcore.analyzers\\2.2.4\\microsoft.entityframeworkcore.analyzers.2.2.4.nupkg.sha512",
