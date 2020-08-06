@@ -7,6 +7,8 @@
 
     <h1>@ViewData["Title"]</h1>
 
+    <vc:Summary></vc:Summary>
+
 <div>
     <h4>Esta ação será permanente!</h4>
     <hr />
@@ -34,7 +36,7 @@
     <form asp-action="Delete">
         <input type="hidden" asp-for="Id" />
         <input type="submit" value="Excluir" class="btn btn-danger" />
-        <a class="btn btn-info" href="javascript:window.history.back();">Voltar</a>
+        <a class="btn btn-info" asp-action="Index">Voltar</a>
     </form>
 </div>
 

@@ -14,7 +14,7 @@ namespace DevIO.Business.Services
 
         public FornecedorService(IFornecedorRepository fornecedorRepository, 
                                  IEnderecoRepository enderecoRepository,
-                                 INotificador notificador): base(notificador)
+                                 INotificador notificador) : base(notificador)
         {
             _fornecedorRepository = fornecedorRepository;
             _enderecoRepository = enderecoRepository;
@@ -70,6 +70,14 @@ namespace DevIO.Business.Services
                 Notificar("O fornecedor possui produtos cadastrados!");
                 return;
             }
+
+            var endereco = await _enderecoRepository.ObterEnderecoPorFornecedor(id);
+
+            if (endereco != null)
+            {
+                await _enderecoRepository.Remover(endereco.Id);
+            }
+
             await _fornecedorRepository.Remover(id);
         }
 
